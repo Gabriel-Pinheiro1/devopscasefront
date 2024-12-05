@@ -1,4 +1,4 @@
-# Devops Case - Fronted
+# Devops Case - Frontend
 
 ## Desafio 01 - Dockerizar a aplicação
 
@@ -15,7 +15,7 @@ O Dockerfile segue o padrão de multi-stage builds, onde o primeiro estágio rea
 - O Node.js é usado para instalar dependências e construir a aplicação.
 - O Nginx serve a aplicação construída, expondo a porta 80 para acesso.
 
-Repositório da Integração: https://github.com/Gabriel-Pinheiro1/DevopsCase-Integracao
+### Repositório da Integração (Back + Front + Db): https://github.com/Gabriel-Pinheiro1/DevopsCase-Integracao
   
 
 ## Desafio 02: Criar um workflow de CI/CD
