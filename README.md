@@ -37,5 +37,7 @@ O workflow de CI/CD configurado no **GitHub Actions** automatiza o processo de i
 3. **Monitoramento do Processo**  
    Todo o workflow pode ser acompanhado pela aba **Actions** no repositório do GitHub. Ela detalha cada etapa, informando logs e o status do processo, desde o início até a publicação bem sucedida.
 
+### Acesse o site em: https://devopscasefront-eta.vercel.app/
+
 
 
